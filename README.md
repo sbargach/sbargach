@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Souff
 
-<!--
-**sbargach/sbargach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software developer based in the Netherlands**, passionate about building clean, maintainable code and continuously improving my skills.  
+I enjoy working with **C# and .NET**, and I use this GitHub to share personal projects, learning experiments, and code examples.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect  
+Feel free to reach out:
+- [LinkedIn](https://www.linkedin.com/in/soufyanbargach/) 
+
+---
+
+> _"I can only show you the door. You're the one that has to walk through it."  — **Morpheus**, *The Matrix*  
