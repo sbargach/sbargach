@@ -1,6 +1,6 @@
 # Hi, I'm Souff
 
-I'm a software developer based in the Netherlands. I mostly work with C# and .NET.
+I'm a software developer based in the Netherlands. 
 
 Outside work, I build whatever catches my interest. Some ideas work out, others teach me something useful along the way.
 
